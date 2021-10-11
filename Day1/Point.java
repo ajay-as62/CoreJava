@@ -34,7 +34,7 @@ public class Point{
 		
 		boolean val=p4.isEqual(p5);
 		if(val)
-			System.out.println("Points p4 and p5 are same");
+	            System.out.println("Points p4 and p5 are same");
 		else
 		    System.out.println("Points p4 and p5 are different");
 	}
